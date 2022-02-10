@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JuJulien595
-- 👀 I’m interested in  le gaming
+- 👀 I’m interested in  gaming
 - 🌱 I’m currently learning python, JS
 - 📫 How to reach me ...
 
